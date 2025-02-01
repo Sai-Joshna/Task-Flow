@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Bathing",
+        "priority": 5,
+        "due_date": "2025-01-23",
+        "effort": 1,
+        "category": "Domestic",
+        "completed": false,
+        "score": 99
+    }
+]
