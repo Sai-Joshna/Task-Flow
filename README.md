@@ -1,21 +1,21 @@
-TaskFlow - Intelligent Task Prioritizer
+# TaskFlow - Intelligent Task Prioritizer
 
 TaskFlow is a Python-based task management tool that helps prioritize tasks based on urgency, importance, and effort. It features an interactive CLI for easy task management, automated prioritization, and persistent data storage.
 
-Features
+# Features
 ✅ Task Management – Add, edit, delete, and mark tasks as completed
 ✅ Smart Prioritization – Automatically ranks tasks based on priority and due date
 ✅ Search & Filter – Find tasks by keyword, category, or priority
 ✅ Persistent Storage – Tasks are saved in tasks.json
 
-Why Use TaskFlow?
+# Why Use TaskFlow?
 Unlike simple note-taking apps, TaskFlow automatically prioritizes tasks, ensuring you focus on the most urgent ones first. It’s customizable, efficient, and a great way to enhance productivity.
 
-Installation & Setup
+# Installation & Setup
 
-Prerequisites: Python 3.x installed 
+# Prerequisites: Python 3.x installed 
 
-Steps to Run
+# Steps to Run
 
   1. Clone the repository:
 
@@ -30,7 +30,7 @@ Steps to Run
   python taskflow.py
 
 
-Example Usage
+# Example Usage
 
 Adding a Task:
 
@@ -42,7 +42,7 @@ Enter category: Work
 
 
 
-Contributions are welcome! Follow these steps to contribute:
+# Contributions are welcome! Follow these steps to contribute:
 
 Fork the repository
 Create a new branch (git checkout -b feature-name)
@@ -51,7 +51,7 @@ Push to your branch (git push origin feature-name)
 Open a pull request
 
 
-#License
+# License
 This project is licensed under the MIT License.
 
 
