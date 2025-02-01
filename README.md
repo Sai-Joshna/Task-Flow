@@ -14,3 +14,44 @@ Unlike simple note-taking apps, TaskFlow automatically prioritizes tasks, ensuri
 Installation & Setup
 
 Prerequisites: Python 3.x installed 
+
+Steps to Run
+
+  1. Clone the repository:
+
+  git clone https://github.com/Sai-Joshna/Task-Flow.git
+  
+  2. Navigate to the project folder:
+
+  cd Task-Flow
+
+  3. Run the Program
+
+  python taskflow.py
+
+
+Example Usage
+
+Adding a Task:
+
+Enter task title: Complete project report  
+Enter priority (1-5): 5  
+Enter due date (YYYY-MM-DD): 2025-02-10  
+Enter effort (in hours): 3  
+Enter category: Work  
+
+
+
+Contributions are welcome! Follow these steps to contribute:
+
+Fork the repository
+Create a new branch (git checkout -b feature-name)
+Commit your changes (git commit -m "Added new feature")
+Push to your branch (git push origin feature-name)
+Open a pull request
+
+
+License
+This project is licensed under the MIT License.
+
+
